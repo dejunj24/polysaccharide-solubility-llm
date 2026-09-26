@@ -1,0 +1,15 @@
+torch==1.12.1+cu113
+torchvision==0.13.1+cu113
+transformers==4.30.2
+datasets==2.14.0
+accelerate==0.20.3
+peft==0.4.0
+huggingface_hub==0.16.4
+tokenizers==0.13.3
+pandas==2.0.3
+pyarrow<15.0.0
+fastapi
+uvicorn[standard]
+pydantic
+scikit-learn
+tqdm

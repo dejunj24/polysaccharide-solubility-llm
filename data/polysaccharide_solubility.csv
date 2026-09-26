@@ -1,0 +1,71 @@
+polysaccharide_name,smiles,solvent,solubility
+Cellulose,[*]OC1C(O)C(O)C([*])OC1CO,water,no
+Cellulose,[*]OC1C(O)C(O)C([*])OC1CO,DMSO,no
+Cellulose,[*]OC1C(O)C(O)C([*])OC1CO,ethanol,no
+Cellulose,[*]OC1C(O)C(O)C([*])OC1CO,acetone,no
+Cellulose,[*]OC1C(O)C(O)C([*])OC1CO,THF,no
+Cellulose,[*]OC1C(O)C(O)C([*])OC1CO,chloroform,no
+Cellulose,[*]OC1C(O)C(O)C([*])OC1CO,DMF,no
+Amylose (Starch),[*]OC1C([*])OC(CO)C(O)C1O,water,yes
+Amylose (Starch),[*]OC1C([*])OC(CO)C(O)C1O,DMSO,yes
+Amylose (Starch),[*]OC1C([*])OC(CO)C(O)C1O,ethanol,no
+Amylose (Starch),[*]OC1C([*])OC(CO)C(O)C1O,acetone,no
+Amylose (Starch),[*]OC1C([*])OC(CO)C(O)C1O,THF,no
+Amylose (Starch),[*]OC1C([*])OC(CO)C(O)C1O,chloroform,no
+Amylose (Starch),[*]OC1C([*])OC(CO)C(O)C1O,DMF,yes
+Chitin,[*]OC1C(NC(=O)C)C(O)C([*])OC1CO,water,no
+Chitin,[*]OC1C(NC(=O)C)C(O)C([*])OC1CO,DMSO,no
+Chitin,[*]OC1C(NC(=O)C)C(O)C([*])OC1CO,ethanol,no
+Chitin,[*]OC1C(NC(=O)C)C(O)C([*])OC1CO,acetone,no
+Chitin,[*]OC1C(NC(=O)C)C(O)C([*])OC1CO,THF,no
+Chitin,[*]OC1C(NC(=O)C)C(O)C([*])OC1CO,chloroform,no
+Chitin,[*]OC1C(NC(=O)C)C(O)C([*])OC1CO,DMF,no
+Chitosan,[*]OC1C(N)C(O)C([*])OC1CO,water,no
+Chitosan,[*]OC1C(N)C(O)C([*])OC1CO,DMSO,no
+Chitosan,[*]OC1C(N)C(O)C([*])OC1CO,ethanol,no
+Chitosan,[*]OC1C(N)C(O)C([*])OC1CO,acetone,no
+Chitosan,[*]OC1C(N)C(O)C([*])OC1CO,THF,no
+Chitosan,[*]OC1C(N)C(O)C([*])OC1CO,chloroform,no
+Chitosan,[*]OC1C(N)C(O)C([*])OC1CO,DMF,no
+Dextran,[*]OCC1OC([*])C(O)C(O)C1O,water,yes
+Dextran,[*]OCC1OC([*])C(O)C(O)C1O,DMSO,yes
+Dextran,[*]OCC1OC([*])C(O)C(O)C1O,ethanol,no
+Dextran,[*]OCC1OC([*])C(O)C(O)C1O,acetone,no
+Dextran,[*]OCC1OC([*])C(O)C(O)C1O,THF,no
+Dextran,[*]OCC1OC([*])C(O)C(O)C1O,chloroform,no
+Dextran,[*]OCC1OC([*])C(O)C(O)C1O,DMF,yes
+Pullulan,[*]OC1C(CO)OC([*])C(O)C1O,water,yes
+Pullulan,[*]OC1C(CO)OC([*])C(O)C1O,DMSO,yes
+Pullulan,[*]OC1C(CO)OC([*])C(O)C1O,ethanol,no
+Pullulan,[*]OC1C(CO)OC([*])C(O)C1O,acetone,no
+Pullulan,[*]OC1C(CO)OC([*])C(O)C1O,THF,no
+Pullulan,[*]OC1C(CO)OC([*])C(O)C1O,chloroform,no
+Pullulan,[*]OC1C(CO)OC([*])C(O)C1O,DMF,yes
+Agarose,[*]OC1CC2OC1C(CO)OC2[*],water,yes
+Agarose,[*]OC1CC2OC1C(CO)OC2[*],DMSO,yes
+Agarose,[*]OC1CC2OC1C(CO)OC2[*],ethanol,no
+Agarose,[*]OC1CC2OC1C(CO)OC2[*],acetone,no
+Agarose,[*]OC1CC2OC1C(CO)OC2[*],THF,no
+Agarose,[*]OC1CC2OC1C(CO)OC2[*],chloroform,no
+Agarose,[*]OC1CC2OC1C(CO)OC2[*],DMF,no
+Alginate,[*]OC1C(C(=O)O)OC([*])C(O)C1O,water,yes
+Alginate,[*]OC1C(C(=O)O)OC([*])C(O)C1O,DMSO,no
+Alginate,[*]OC1C(C(=O)O)OC([*])C(O)C1O,ethanol,no
+Alginate,[*]OC1C(C(=O)O)OC([*])C(O)C1O,acetone,no
+Alginate,[*]OC1C(C(=O)O)OC([*])C(O)C1O,THF,no
+Alginate,[*]OC1C(C(=O)O)OC([*])C(O)C1O,chloroform,no
+Alginate,[*]OC1C(C(=O)O)OC([*])C(O)C1O,DMF,no
+Hyaluronic Acid,[*]OC1C(O)C([*])OC(C(=O)O)C1OC2C(CO)OC(O)C(NC(=O)C)C2O,water,yes
+Hyaluronic Acid,[*]OC1C(O)C([*])OC(C(=O)O)C1OC2C(CO)OC(O)C(NC(=O)C)C2O,DMSO,no
+Hyaluronic Acid,[*]OC1C(O)C([*])OC(C(=O)O)C1OC2C(CO)OC(O)C(NC(=O)C)C2O,ethanol,no
+Hyaluronic Acid,[*]OC1C(O)C([*])OC(C(=O)O)C1OC2C(CO)OC(O)C(NC(=O)C)C2O,acetone,no
+Hyaluronic Acid,[*]OC1C(O)C([*])OC(C(=O)O)C1OC2C(CO)OC(O)C(NC(=O)C)C2O,THF,no
+Hyaluronic Acid,[*]OC1C(O)C([*])OC(C(=O)O)C1OC2C(CO)OC(O)C(NC(=O)C)C2O,chloroform,no
+Hyaluronic Acid,[*]OC1C(O)C([*])OC(C(=O)O)C1OC2C(CO)OC(O)C(NC(=O)C)C2O,DMF,no
+Curdlan,[*]OC1C(O)C([*])OC(CO)C1O,water,no
+Curdlan,[*]OC1C(O)C([*])OC(CO)C1O,DMSO,yes
+Curdlan,[*]OC1C(O)C([*])OC(CO)C1O,ethanol,no
+Curdlan,[*]OC1C(O)C([*])OC(CO)C1O,acetone,no
+Curdlan,[*]OC1C(O)C([*])OC(CO)C1O,THF,no
+Curdlan,[*]OC1C(O)C([*])OC(CO)C1O,chloroform,no
+Curdlan,[*]OC1C(O)C([*])OC(CO)C1O,DMF,no
